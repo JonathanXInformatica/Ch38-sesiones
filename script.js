@@ -11,3 +11,7 @@ function alerta(){
 function enviarSaludoAPersona(){
     alert(`Hola ${prompt("Ingresa tu Nombre")}`);
 } 
+
+/**
+ * descripcion del ejercicio
+ **/
