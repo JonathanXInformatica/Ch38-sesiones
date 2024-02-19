@@ -1,0 +1,14 @@
+/*Hoja d estilos personalizada*/
+/*CSS : cascadin style sheet */
+
+/*Selector de etiqueta */
+
+body {
+    background-color: darkred;
+    color: aquamarine;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+main {
+    text-align: center;
+}
